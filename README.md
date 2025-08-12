@@ -1,44 +1,32 @@
-- 👋 Hi, I’m @S-Harini-772005
-- 👀 I’m interested in Datascience,Machine learning,Artificial intelligence,Python programming
-- 🌱 I’m currently learning UI/UX design
-- 💞️ I’m looking to collaborate on Datascience,Machine learning,Artificial intelligence,Python programming
-- 📫 How to reach me sharinivasan4@gmail.com
-  # 👋 Hi, I'm S. Harini Vasan
+# 👋 Hi, I’m @HARINI SRINIVASAN
 
-<div align="center">
-  <!-- GitHub-safe animated SVG using external service -->
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Final-year+AI+Student+•+Computer+Vision;Passionate+about+AI%2C+NLP%2C+and+Autonomous+Systems;Building+Pravaha+AI+and+NubrafuseX" alt="Typing SVG" />
-</div>
+- 👀 I’m interested in **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Python programming**   
+- 💞️ I’m looking to collaborate on Data Science, Machine Learning, AI, and Python projects  
+- 📫 How to reach me: [sharinivasan4@gmail.com](mailto:sharinivasan4@gmail.com)
 
 ---
 
-### 💡 About Me
+### 💼 About Me
 
-- 🎓 **Final-year student** specializing in **Artificial Intelligence and Data Science**
-- 🤖 Passionate about **Computer Vision, NLP, Autonomous Systems, and GANs**
-- 🔭 Currently working on:
-  - 🛰 **Pravaha AI** — AI-driven space debris removal system
-  - **NubrafuseX** — hybrid EEG classification framework
-- 🌱 Learning **Deep Learning deployment** with Flask, FastAPI, and React
-- 🎯 Goal: Build AI systems that solve **real-world problems**
+I’m a passionate final-year AI student actively working on innovative projects in computer vision and EEG signal classification.  
+I focus on building practical AI systems that make a real-world impact.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Tools
 
-**Languages & Frameworks:** `Python` | `JavaScript` | `HTML` | `CSS` | `Flask` | `FastAPI` | `React` | `Streamlit`
-
-**AI & Data Science:** `OpenCV` | `TensorFlow` | `PyTorch` | `Scikit-learn` | `Pandas` | `NumPy` | `Matplotlib`
-
-**Tools & Platforms:** `Git` | `GitHub` | `VS Code` | `Google Colab` | `Jupyter Notebook` | `Docker`
+| Languages & Frameworks | AI & Data Science           | Tools & Platforms           |
+|-----------------------|----------------------------|----------------------------|
+| Python, JavaScript    | OpenCV, TensorFlow, PyTorch| Git, GitHub, VS Code       |
+| Flask, FastAPI, React | Scikit-learn, Pandas, NumPy| Google Colab, Docker        |
 
 ---
 
 ### 📌 Featured Projects
 
-- 🌟 **Pravaha AI** — AI-based space debris removal with robotic arms and computer vision
-- 🌟 **Crowd Gaze AI** — Real-time gaze, age, and gender detection (OpenCV)
-- 🌟 **NubrafuseX** — hybrid EEG classification framework
+- **Pravaha AI** — AI-driven space debris removal system  
+- **Crowd Gaze AI** — Real-time gaze, age, and gender detection  
+- **NubrafuseX** — Hybrid EEG classification framework  
 
 ---
 
@@ -51,9 +39,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Harini-772005&show_icons=true&theme=tokyonight" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Harini-772005&theme=tokyonight" alt="GitHub streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Harini-772005&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Harini-772005&theme=tokyonight" alt="GitHub Streak" width="49%" />
 </p>
+
+---
+
+### 🔥 Currently Active & Engaged
+
+💡 Exploring new AI algorithms and sharing my learnings regularly.  
+🚀 Improving open source projects & collaborating with the community.  
+📚 Continuously upgrading my skills in UI/UX and full-stack AI deployment.
 
 ---
 
