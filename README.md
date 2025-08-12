@@ -34,7 +34,7 @@
   I’m a final-year AI student specializing in Data Science, Machine Learning, and Computer Vision.<br>
   Passionate about building impactful AI solutions and constantly learning new technologies.<br><br>
   - 🔭 Currently working on AI-driven space debris removal and EEG signal classification projects.<br>
-  - 🌱 Learning UI/UX design and brain computer interface.<br>
+  - 🌱 Learning UI/UX design and full-stack AI deployment.<br>
   - ⚡ In my free time, I contribute to open source and write technical blogs.
 </p>
 
@@ -72,15 +72,4 @@
 
 ###
 
-<h3 align="left">🔥 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Harini-772005&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Harini-772005&theme=tokyonight" alt="GitHub Streak" height="180" />
-</div>
-
-###
-
 ⭐ _"Turning AI ideas into impactful reality"_
-
-
